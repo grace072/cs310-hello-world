@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Grace Wang
  */
 
 public class Class2 {
